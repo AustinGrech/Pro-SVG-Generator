@@ -1,5 +1,17 @@
 # SVG Generator
 
+## Images
+
+![Alt text](images/svglogo.jpg)
+
+---
+
+![Alt text](images/runimage.jpg)
+
+---
+
+![Alt text](images/TestRun.jpg)
+
 ## Table of Contents
 
 - [Installation](#installation)
